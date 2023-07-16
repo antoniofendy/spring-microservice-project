@@ -1,10 +1,10 @@
-package com.fendy.microservice;
+package com.fendy.productservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MicroserviceApplicationTests {
+class ProductServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

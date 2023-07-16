@@ -1,13 +1,13 @@
-package com.fendy.microservice;
+package com.fendy.productservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MicroserviceApplication {
+public class ProductServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MicroserviceApplication.class, args);
+		SpringApplication.run(ProductServiceApplication.class, args);
 	}
 
 }
